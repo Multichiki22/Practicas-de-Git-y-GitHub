@@ -3,3 +3,5 @@ este es mi primer documento de texto
 estoy practicando terminale y git
 
 vamos a ver que pasa
+
+estaria por probar mi segundo commit
